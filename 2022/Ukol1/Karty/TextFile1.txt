@@ -1,0 +1,264 @@
+﻿zalud dolnik (F)
+gula dolnik (O)
+zelen 7 (S)
+gula 8 (J)
+gula 10 (R)
+zelen hornik (K)
+gula 7 (P)
+zelen dolnik (L)
+srdce eso (A)
+zelen 9 (H)
+srdce 8 (R)
+zelen eso (V)
+zalud 9 (S)
+gula hornik (U)
+zalud 8 (P)
+srdce kral (I)
+srdce hornik (T)
+zalud 10 (A)
+gula 9 (T)
+srdce 9 (I)
+gula kral (E)
+zelen 10 (E)
+zalud kral (K)
+zalud hornik (V)
+srdce dolnik (N)
+zalud eso (E)
+zelen 8 (Y)
+zelen kral (M)
+gula eso (N)
+srdce 10 (U)
+srdce 7 (O)
+zalud 7 (R)
+
+
+1 - dolnik zalud,   dolnik gula,   r7 zelen,   r8 gula,   r10 gula,
+2 - hornik zelen,   r7 gula,   dolnik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   eso zelen,   r9 zalud,   hornik gula,   r8 zalud,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 gula,   r9 srdce,
+5 - kral gula,   r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,   r7 zalud,
+Horni Karta: r7 zalud
+1 r7 zelen
+
+1 - dolnik zalud,   dolnik gula,   r8 gula,   r10 gula,
+2 - hornik zelen,   r7 gula,   dolnik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   eso zelen,   r9 zalud,   hornik gula,   r8 zalud,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 gula,   r9 srdce,
+5 - kral gula,   r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,   r7 zalud,   r7 zelen,
+Horni Karta: r7 zelen
+2 r7 gula
+
+1 - dolnik zalud,   dolnik gula,   r8 gula,   r10 gula,
+2 - hornik zelen,   dolnik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   eso zelen,   r9 zalud,   hornik gula,   r8 zalud,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 gula,   r9 srdce,
+5 - kral gula,   r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,   r7 zalud,   r7 zelen,   r7 gula,
+Horni Karta: r7 gula
+3--
+
+1 - dolnik zalud,   dolnik gula,   r8 gula,   r10 gula,
+2 - hornik zelen,   dolnik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   eso zelen,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 gula,   r9 srdce,
+5 - kral gula,   r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,
+Horni Karta: r7 gula
+4 r9 gula
+
+1 - dolnik zalud,   dolnik gula,   r8 gula,   r10 gula,
+2 - hornik zelen,   dolnik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   eso zelen,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - kral gula,   r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,   r9 gula,
+Horni Karta: r9 gula
+5 kral gula
+
+1 - dolnik zalud,   dolnik gula,   r8 gula,   r10 gula,
+2 - hornik zelen,   dolnik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   eso zelen,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,   r9 gula,   kral gula,
+Horni Karta: kral gula
+1 dolnik gula
+
+1 - dolnik zalud,   r8 gula,   r10 gula,
+2 - hornik zelen,   dolnik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   eso zelen,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,
+Horni Karta: dolnik gula
+2 dolnik zelen
+
+1 - dolnik zalud,   r8 gula,   r10 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   eso zelen,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,
+Horni Karta: dolnik zelen
+3 eso zelen
+
+1 - dolnik zalud,   r8 gula,   r10 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,
+Horni Karta: eso zelen
+4--
+
+1 - dolnik zalud,   r8 gula,   r10 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - r10 zelen,   kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,
+Horni Karta: eso zelen
+5 r10 zelen
+
+1 - dolnik zalud,   r8 gula,   r10 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,
+Horni Karta: r10 zelen
+1 r10 gula
+
+1 - dolnik zalud,   r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zalud,   r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,
+Horni Karta: r10 gula
+2--
+
+1 - dolnik zalud,   r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,   r7 zalud,
+3 - r8 srdce,   r9 zalud,   hornik gula,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,
+Horni Karta: r10 gula
+3 hornik gula
+
+1 - dolnik zalud,   r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,   r7 zalud,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   hornik srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,
+Horni Karta: hornik gula
+4 hornik srdce
+
+1 - dolnik zalud,   r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,   r7 zalud,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   hornik zalud,   dolnik srdce,
+B - r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,
+Horni Karta: hornik srdce
+5 hornik zalud
+
+1 - dolnik zalud,   r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,   r7 zalud,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   dolnik srdce,
+B - r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,
+Horni Karta: hornik zalud
+1 dolnik zalud
+
+1 - r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,   r7 zalud,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   dolnik srdce,
+B - r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,
+Horni Karta: dolnik zalud
+2 r7 zalud
+
+1 - r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,   r7 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   dolnik srdce,
+B - r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,   r7 zalud,
+Horni Karta: r7 zalud
+3 r7 srdce
+
+1 - r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,
+5 - kral zalud,   dolnik srdce,
+B - r7 zelen,   r7 gula,   r9 gula,   kral gula,   dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,   r7 zalud,   r7 srdce,
+Horni Karta: r7 srdce
+4--
+
+1 - r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,   r7 zelen,   r7 gula,   r9 gula,   kral gula,
+5 - kral zalud,   dolnik srdce,
+B - dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,   r7 zalud,   r7 srdce,
+Horni Karta: r7 srdce
+5 dolnik srdce
+
+1 - r8 gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,   r7 zelen,   r7 gula,   r9 gula,   kral gula,
+5 - kral zalud,
+B - dolnik gula,   dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,   r7 zalud,   r7 srdce,   dolnik srdce,
+Horni Karta: dolnik srdce
+1--
+
+1 - r8 gula,   dolnik gula,
+2 - hornik zelen,   eso srdce,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,   r7 zelen,   r7 gula,   r9 gula,   kral gula,
+5 - kral zalud,
+B - dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,   r7 zalud,   r7 srdce,   dolnik srdce,
+Horni Karta: dolnik srdce
+2 eso srdce
+
+1 - r8 gula,   dolnik gula,
+2 - hornik zelen,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   eso zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,   r7 zelen,   r7 gula,   r9 gula,   kral gula,
+5 - kral zalud,
+B - dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,   r7 zalud,   r7 srdce,   dolnik srdce,   eso srdce,
+Horni Karta: eso srdce
+3 eso zalud
+
+1 - r8 gula,   dolnik gula,
+2 - hornik zelen,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,   r7 zelen,   r7 gula,   r9 gula,   kral gula,
+5 - kral zalud,
+B - dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,   r7 zalud,   r7 srdce,   dolnik srdce,   eso srdce,   eso zalud,
+Horni Karta: eso zalud
+4--
+
+1 - r8 gula,   dolnik gula,
+2 - hornik zelen,   r9 zelen,
+3 - r8 srdce,   r9 zalud,   r8 zalud,   r8 zelen,   kral zelen,   eso gula,   r10 srdce,
+4 - kral srdce,   r10 zalud,   r9 srdce,   r7 zelen,   r7 gula,   r9 gula,   kral gula,
+5 - kral zalud,
+B - dolnik zelen,   eso zelen,   r10 zelen,   r10 gula,   hornik gula,   hornik srdce,   hornik zalud,   dolnik zalud,   r7 zalud,   r7 srdce,   dolnik srdce,   eso srdce,   eso zalud,
+Horni Karta: eso zalud
+5 kral zalud
+LVERUTVFRONAEK
+Time was: 66 ms.
+
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\bin\Debug\net6.0\Karty.exe (process 27744) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

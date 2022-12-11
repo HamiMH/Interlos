@@ -1,0 +1,15 @@
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\bin\Debug\net6.0\Karty.exe
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\bin\Debug\net6.0\Karty.deps.json
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\bin\Debug\net6.0\Karty.runtimeconfig.json
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\bin\Debug\net6.0\Karty.dll
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\bin\Debug\net6.0\Karty.pdb
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\Karty.csproj.AssemblyReference.cache
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\Karty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\Karty.AssemblyInfoInputs.cache
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\Karty.AssemblyInfo.cs
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\Karty.csproj.CoreCompileInputs.cache
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\Karty.dll
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\refint\Karty.dll
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\Karty.pdb
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\Karty.genruntimeconfig.cache
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Karty\obj\Debug\net6.0\ref\Karty.dll

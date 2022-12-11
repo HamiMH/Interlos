@@ -1,0 +1,15 @@
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\bin\Debug\net6.0\Ukol1.exe
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\bin\Debug\net6.0\Ukol1.deps.json
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\bin\Debug\net6.0\Ukol1.runtimeconfig.json
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\bin\Debug\net6.0\Ukol1.dll
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\bin\Debug\net6.0\Ukol1.pdb
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\Ukol1.csproj.AssemblyReference.cache
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\Ukol1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\Ukol1.AssemblyInfoInputs.cache
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\Ukol1.AssemblyInfo.cs
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\Ukol1.csproj.CoreCompileInputs.cache
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\Ukol1.dll
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\refint\Ukol1.dll
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\Ukol1.pdb
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\Ukol1.genruntimeconfig.cache
+C:\Users\z004nz8k\Documents\Interlos\Interlos\2022\Ukol1\Ukol1\obj\Debug\net6.0\ref\Ukol1.dll
